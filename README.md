@@ -5,6 +5,7 @@
             <td>유형</td>
             <td>문제</td>
             <td>페이지</td>
+            <td>풀이</td>
         </tr>
         <tr>
             <td rowspan="9">그리디</td>
@@ -15,7 +16,7 @@
         <tr>
             <td>숫자 카드 게임</td>
             <td>96</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[1] Greedy/ex02.py">🔗</a></td>
         </tr>
         <tr>
             <td>1이 될 때까지</td>

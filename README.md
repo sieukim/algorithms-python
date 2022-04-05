@@ -21,7 +21,7 @@
         <tr>
             <td>1이 될 때까지</td>
             <td>99</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[1] Greedy/ex03.py">🔗</a></td>
         </tr>
         <tr>
             <td>모험가 길드</td>

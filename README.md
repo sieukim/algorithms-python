@@ -67,7 +67,7 @@
         <tr>
             <td>게임 개발</td>
             <td>118</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[2] Implement/ex03.py">🔗</a></td>
         </tr>
         <tr>
             <td>럭키 스트레이트</td>

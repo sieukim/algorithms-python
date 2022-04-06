@@ -1,4 +1,4 @@
-## 이것이 취업을 위한 코딩테스트다.. 연습 문제 
+## 이것이 취업을 위한 코딩테스트다.. with Python3
 <div align="center">
     <table>
         <tr>
@@ -62,7 +62,7 @@
         <tr>
             <td>왕실의 나이트</td>
             <td>115</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[2] Implement/ex02.py">🔗</a></td>
         </tr>
         <tr>
             <td>게임 개발</td>

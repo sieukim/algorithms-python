@@ -53,5 +53,61 @@
             <td>316</td>
             <td></td>
         </tr>
+        <tr>
+            <td rowspan="11">구현</td>
+            <td>시각</td>
+            <td>113</td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[2] Implement/ex01.py">🔗</a></td>
+        </tr>
+        <tr>
+            <td>왕실의 나이트</td>
+            <td>115</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>게임 개발</td>
+            <td>118</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>럭키 스트레이트</td>
+            <td>321</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>문자열 재정렬</td>
+            <td>322</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>문자열 압축</td>
+            <td>323</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>자물쇠와 열쇠</td>
+            <td>325</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>뱀</td>
+            <td>327</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>기둥과 보 설치</td>
+            <td>329</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>치킨 배달</td>
+            <td>332</td>
+            <td></td>
+        </tr>
+       <tr>
+            <td>외벽 점검</td>
+            <td>335</td>
+            <td></td>
+        </tr>
     </table>
 </div>

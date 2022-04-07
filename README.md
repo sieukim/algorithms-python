@@ -160,5 +160,41 @@
             <td>355</td>
             <td></td>
         </tr>
+        <tr>
+            <td rowspan="7">정렬</td>
+            <td>위에서 아래로</td>
+            <td>178</td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[4] Sort/ex01.py">🔗</a></td>
+        </tr>
+        <tr>
+            <td>성적이 낮은 순서로 학생 출력하기</td>
+            <td>180</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>두 배열의 원소 교체</td>
+            <td>182</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>국영수</td>
+            <td>359</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>안테나</td>
+            <td>360</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>실패율</td>
+            <td>361</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>카드 정렬하기</td>
+            <td>363</td>
+            <td></td>
+        </tr>
     </table>
 </div>

@@ -109,5 +109,56 @@
             <td>335</td>
             <td></td>
         </tr>
+        <tr>
+            <td rowspan="10">DFS/BFS</td>
+            <td>음료수 얼려 먹기</td>
+            <td>149</td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[3] DFS&BFS/ex01.py">🔗</a></td>
+        </tr>
+        <tr>
+            <td>미로 탈출</td>
+            <td>152</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>특정 거리의 도시 찾기</td>
+            <td>339</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>연구소</td>
+            <td>341</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>경쟁적 전염</td>
+            <td>344</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>괄호 변환</td>
+            <td>346</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>연산자 끼워 넣기</td>
+            <td>149</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>감시 피하기</td>
+            <td>351</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>인구 이동</td>
+            <td>353</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>블록 이동하기</td>
+            <td>355</td>
+            <td></td>
+        </tr>
     </table>
 </div>

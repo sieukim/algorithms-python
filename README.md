@@ -196,5 +196,39 @@
             <td>363</td>
             <td></td>
         </tr>
+        <tr>
+            <td rowspan="6">이진 탐색</td>
+            <td>부품 찾기</td>
+            <td>197</td>
+            <td>
+                <a href="https://github.com/sieukim/algorithms-python/blob/master/[5] Binary Search/ex01.py">🔗</a> - 구현
+                <a href="https://github.com/sieukim/algorithms-python/blob/master/[5] Binary Search/ex01-bisect.py">🔗</a> - bisect
+            </td>
+        </tr>
+        <tr>
+            <td>떡볶이 떡 만들기</td>
+            <td>201</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>정렬된 배열에서 특정 수의 개수 구하기</td>
+            <td>367</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>고정점 찾기</td>
+            <td>368</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>공유기 설치</td>
+            <td>369</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>가사 검색</td>
+            <td>370</td>
+            <td></td>
+        </tr>
     </table>
 </div>

@@ -169,7 +169,7 @@
         <tr>
             <td>성적이 낮은 순서로 학생 출력하기</td>
             <td>180</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[4] Sort/ex02.py">🔗</a></td>
         </tr>
         <tr>
             <td>두 배열의 원소 교체</td>

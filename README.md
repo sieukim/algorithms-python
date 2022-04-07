@@ -118,7 +118,7 @@
         <tr>
             <td>미로 탈출</td>
             <td>152</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[3] DFS&BFS/ex02.py">🔗</a></td>
         </tr>
         <tr>
             <td>특정 거리의 도시 찾기</td>

@@ -208,7 +208,7 @@
         <tr>
             <td>떡볶이 떡 만들기</td>
             <td>201</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[5] Binary Search/ex02.py">🔗</a></td>
         </tr>
         <tr>
             <td>정렬된 배열에서 특정 수의 개수 구하기</td>

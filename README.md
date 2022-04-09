@@ -249,7 +249,7 @@
         <tr>
             <td>효율적인 화폐 구성</td>
             <td>226</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[6] Dynamic Programming/ex04.py">🔗</a></td>
         </tr>
         <tr>
             <td>금광</td>

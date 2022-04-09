@@ -244,7 +244,7 @@
         <tr>
             <td>바닥 공사</td>
             <td>223</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[6] Dynamic Programming/ex03.py">🔗</a></td>
         </tr>
         <tr>
             <td>효율적인 화폐 구성</td>

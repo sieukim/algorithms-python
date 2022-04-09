@@ -239,7 +239,7 @@
         <tr>
             <td>개미 전사</td>
             <td>220</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[6] Dynamic Programming/ex02.py">🔗</a></td>
         </tr>
         <tr>
             <td>바닥 공사</td>

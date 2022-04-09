@@ -230,5 +230,56 @@
             <td>370</td>
             <td></td>
         </tr>
+        <tr>
+            <td rowspan="10">DP</td>
+            <td>1로 만들기</td>
+            <td>217</td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[6] Dynamic Programming/ex01.py">🔗</a></td>
+        </tr>
+        <tr>
+            <td>개미 전사</td>
+            <td>220</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>바닥 공사</td>
+            <td>223</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>효율적인 화폐 구성</td>
+            <td>226</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>금광</td>
+            <td>375</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>정수 삼각형</td>
+            <td>376</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>퇴사</td>
+            <td>377</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>병사 배치하기</td>
+            <td>380</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>못생긴 수</td>
+            <td>381</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>편집 거리</td>
+            <td>382</td>
+            <td></td>
+        </tr>
     </table>
 </div>

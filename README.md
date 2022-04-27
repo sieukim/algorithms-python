@@ -281,5 +281,35 @@
             <td>382</td>
             <td></td>
         </tr>
+        <td rowspan="6">최단 경로</td>
+            <td>미래 도시</td>
+            <td>259</td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[7] Shortest Path/ex01.py">🔗</a></td>
+        </tr>
+        <tr>
+            <td>전보</td>
+            <td>262</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>플로이드</td>
+            <td>385</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>정확한 순위</td>
+            <td>386</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>화성 탐사</td>
+            <td>388</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>숨바꼭질</td>
+            <td>390</td>
+            <td></td>
+        </tr>
     </table>
 </div>

@@ -26,7 +26,7 @@
         <tr>
             <td>모험가 길드</td>
             <td>311</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[1] Greedy/ex04.py">🔗</a></td>
         </tr>
         <tr>
             <td>곱하기 혹은 더하기</td>

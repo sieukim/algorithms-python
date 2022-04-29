@@ -289,7 +289,7 @@
         <tr>
             <td>전보</td>
             <td>262</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[7] Shortest Path/ex02.py">🔗</a></td>
         </tr>
         <tr>
             <td>플로이드</td>

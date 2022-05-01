@@ -31,7 +31,7 @@
         <tr>
             <td>곱하기 혹은 더하기</td>
             <td>312</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[1] Greedy/ex05.py">🔗</a></td>
         </tr>
         <tr>
             <td>문자열 뒤집기</td>

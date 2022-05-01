@@ -77,7 +77,7 @@
         <tr>
             <td>문자열 재정렬</td>
             <td>322</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[2] Implement/ex05.py">🔗</a></td>
         </tr>
         <tr>
             <td>문자열 압축</td>

@@ -36,7 +36,7 @@
         <tr>
             <td>문자열 뒤집기</td>
             <td>313</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[1] Greedy/ex06.py">🔗</a></td>
         </tr>
         <tr>
             <td>만들 수 없는 금액</td>

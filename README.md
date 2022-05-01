@@ -46,7 +46,7 @@
         <tr>
             <td>볼링골 고르기</td>
             <td>315</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[1] Greedy/ex08.py">🔗</a></td>
         </tr>
         <tr>
             <td>무지의 먹방 라이브</td>

@@ -72,7 +72,7 @@
         <tr>
             <td>럭키 스트레이트</td>
             <td>321</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[2] Implement/ex04.py">🔗</a></td>
         </tr>
         <tr>
             <td>문자열 재정렬</td>

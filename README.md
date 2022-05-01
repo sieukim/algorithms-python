@@ -41,7 +41,7 @@
         <tr>
             <td>만들 수 없는 금액</td>
             <td>314</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[1] Greedy/ex07.py">🔗</a></td>
         </tr>
         <tr>
             <td>볼링골 고르기</td>

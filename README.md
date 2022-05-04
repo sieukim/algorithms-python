@@ -82,7 +82,7 @@
         <tr>
             <td>문자열 압축</td>
             <td>323</td>
-            <td></td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[2] Implement/ex06.py">🔗</a></td>
         </tr>
         <tr>
             <td>자물쇠와 열쇠</td>

@@ -281,7 +281,8 @@
             <td>382</td>
             <td></td>
         </tr>
-        <td rowspan="6">최단 경로</td>
+        <tr>
+            <td rowspan="6">최단 경로</td>
             <td>미래 도시</td>
             <td>259</td>
             <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[7] Shortest Path/ex01.py">🔗</a></td>
@@ -309,6 +310,42 @@
         <tr>
             <td>숨바꼭질</td>
             <td>390</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="7">그래프</td>
+            <td>도시 분할 계획</td>
+            <td>301</td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[8] Graph/ex01.py">🔗</a></td>
+        </tr>
+        <tr>
+            <td>커리큘럼</td>
+            <td>304</td>
+            <td><a href="https://github.com/sieukim/algorithms-python/blob/master/[8] Graph/ex02.py">🔗</a></td>
+        </tr>
+        <tr>
+            <td>여행 계획</td>
+            <td>394</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>탑승구</td>
+            <td>396</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>어두운 길</td>
+            <td>398</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>행성 터널</td>
+            <td>399</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>최종 순위</td>
+            <td>400</td>
             <td></td>
         </tr>
     </table>
